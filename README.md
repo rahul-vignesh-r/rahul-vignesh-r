@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul-vignesh-r
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently working in Zoho Corp as a Debugger/Tester
+- 🌱 I’m currently working in Zoho Corp as a Developer
 - 📫 How to reach me : through mail rvigneshc44@gmail.com
 
 <!---
